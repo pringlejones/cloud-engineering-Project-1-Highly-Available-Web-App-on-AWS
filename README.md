@@ -16,3 +16,7 @@ Architected and deployed a highly available, fault-tolerant, and dynamically sca
 ## 📂 Repository Artifacts
 * `user-data.sh` - Automated installation script for Apache web deployment.
 * `README.md` - Documentation of architecture and deployment strategy.
+<img width="1440" height="838" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/5edcab3c-5913-4f35-bcdb-874e07020aa6" />
+<img width="1440" height="841" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/9b61ff58-3df1-4055-ae31-16e117dbabe5" />
+<img width="1440" height="842" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/0d5efce5-65ac-412a-9f9d-54b3a07ad658" />
+
