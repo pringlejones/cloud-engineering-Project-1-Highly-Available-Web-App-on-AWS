@@ -18,6 +18,10 @@ Architected and deployed a highly available, fault-tolerant, and dynamically sca
 2. **CloudWatch Alarm Activation:** The computing spike successfully violated the **Target Tracking Policy (Set at 50% CPU utilization)**, triggering an automated scaling response.
 3. **Dynamic Scaling Elasticity:** The ASG successfully processed the metrics and provisioned additional instance capacity automatically to mitigate the resource deficit.
 
+## 📂 Repository Artifacts
+* `user-data.sh` - Automated installation script for Apache web deployment.
+* `README.md` - Documentation of architecture and deployment strategy.
+
 ## 📸 Deployment & Scaling Verification
 
 ### 1. Live Web Server Verification via ALB DNS:
