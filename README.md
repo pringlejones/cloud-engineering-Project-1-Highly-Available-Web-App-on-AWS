@@ -19,8 +19,8 @@ Architected and deployed a highly available, fault-tolerant, and dynamically sca
 3. **Dynamic Scaling Elasticity:** The ASG successfully processed the metrics and provisioned additional instance capacity automatically to mitigate the resource deficit.
 
 ## 📂 Repository Artifacts
-* `user-data.sh` - Automated installation script for Apache web deployment.
 * `README.md` - Documentation of architecture and deployment strategy.
+* `user-data.sh` - Automated installation script for Apache web deployment.
 
 ## 📸 Deployment & Scaling Verification
 
